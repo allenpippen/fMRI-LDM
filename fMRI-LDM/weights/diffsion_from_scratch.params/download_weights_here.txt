@@ -1,1 +1,0 @@
-Use the Hugging face loader, or download the file locally.
