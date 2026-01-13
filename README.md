@@ -136,6 +136,7 @@ not available
 
 # Copyright Statement
 
-Please note that a paper describing this project has been submitted to the IEEE Transactions on Medical Imaging (TMI) journal for publication. The content of this project, including the code and any associated data, is considered preliminary and is subject to change until the paper is finally published.
+Please note that a paper describing this project has been submitted to the IEEE JBHI. The content of this project, including the code and any associated data, is considered preliminary and is subject to change until the paper is finally published.
 You are welcome to use this code for non-commercial research and educational purposes, provided that you give proper attribution to the authors and cite the related paper once it is published. For any other use, please contact the authors for permission.
 The authors reserve all rights not expressly granted herein.
+
